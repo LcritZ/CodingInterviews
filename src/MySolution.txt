@@ -1,0 +1,30 @@
+第一题
+	public static boolean Find(int target, int [][] array) {
+		if (array.length == 0) {
+			return false;
+		}
+		boolean flag = false;
+		int collen = array.length;
+		int rowlen = array[0].length;
+		System.out.println(collen+","+rowlen);
+		if (target<array[0][0]||target>array[collen-1][rowlen-1]) {
+			return false;
+		}else {
+			for(int i=0;i<collen;i++){
+				if (target==array[i][rowlen-1]) {
+					return true;
+				}else if (target<array[i][rowlen-1]) {
+					for(int j = 0;j<rowlen;j++){
+						if (target == array[i][j]) {
+							return true;
+						}
+					}
+				}else {
+					continue;
+				}
+			}
+		}
+		return flag;
+    }
+
+}
