@@ -11,6 +11,6 @@
 
 添加了一张gakki的图片是因为之前不知道如何在readme.md文件中添加图片，所以去学了，现在在这里说一下：先将image push到
  repository，进入图片，复制URL地址，在readme.md中加入![Image+右中括号+(your url)
- 注意是I，不是i，之前安装别人image写导致图片无法显示出来。
+ 注意是I，不是i，之前按照别人image写导致图片无法显示出来。
 
 ![Image](https://github.com/LcritZ/CodingInterviews/blob/master/gakki.jpg)
