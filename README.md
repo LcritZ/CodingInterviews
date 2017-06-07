@@ -9,4 +9,4 @@
 由于这些题目都是在实验室里为了更快的通过牛客，而导致没有添加注释，解法有纰漏等，在之后的时间里
 由于面临面试等原因也会回过头来看看题目，增加注释，继续完善。
 
-![image](‪https://github.com/LcritZ/CodingInterviews/master/gakki.jpg)
+![image](‪https://github.com/LcritZ/CodingInterviews/raw/master/gakki.jpg)
