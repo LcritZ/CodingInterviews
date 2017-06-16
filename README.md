@@ -9,4 +9,8 @@
 由于这些题目都是在实验室里为了更快的通过牛客，而导致没有添加注释，解法有纰漏等，在之后的时间里
 由于面临面试等原因也会回过头来看看题目，增加注释，继续完善。
 
-![image](‪C:\Users\Lcrit_Z\Pictures\gakki5.jpg)
+添加了一张gakki的图片是因为之前不知道如何在readme.md文件中添加图片，所以去学了，现在在这里说一下：先将image push到
+ repository，进入图片，复制URL地址，在readme.md中加入![Image+右中括号+(your url)
+ 注意是I，不是i，之前按照别人image写导致图片无法显示出来。
+
+![Image](https://github.com/LcritZ/CodingInterviews/blob/master/gakki.jpg)
